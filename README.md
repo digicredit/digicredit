@@ -1,3 +1,3 @@
-FooCoin (FOO)
+DigiCredit (DCT)
 
 Blah, blah, blah.
